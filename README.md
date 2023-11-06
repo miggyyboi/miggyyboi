@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Front-End Development**
 
-- 📫 How to reach me **migsfrags@gmail.com**
+- 📫 How to reach me **fhonkm@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubik's cube under 20 seconds!**
 
