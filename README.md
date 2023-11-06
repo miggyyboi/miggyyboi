@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Migs</h1>
 <h3 align="center">An aspiring front-end developer from the Philippines</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about: **Front-End Development**
 
-- 📫 How to reach me **fhonkm@gmail.com**
+- 📫 How to reach me: **fhonkm@gmail.com**
 
-- ⚡ Fun fact **I can solve a Rubik's cube under 20 seconds!**
+- ⚡ Fun fact: **I can solve a Rubik's cube under 20 seconds!**
 
 </p>
 
