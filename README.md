@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Migs</h1>
 <h3 align="center">An aspiring front-end developer from the Philippines</h3>
 
-- 🌱 I’m currently learning: **React & TypeScript**
+- 🌱 I’m currently learning: **TypeScript**
 
 - 💬 Ask me about: **Front-End Development**
 
