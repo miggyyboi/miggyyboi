@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Migs</h1>
-<h3 align="center">An aspiring front-end developer from the Philippines</h3>
+<h1 align="center">Hi, I'm Migs 👋</h1>
 
-- 🌱 I’m currently learning: **TypeScript**
+- 🌱 Currently learning: **TypeScript**
 
-- 💬 Ask me about: **Front-End Development**
+- 📫 Reach me: **fhonk_ on Discord**
 
-- 📫 How to reach me: **fhonk_ on Discord**
-
-- ⚡ Fun fact: **I can solve a Rubik's cube under 20 seconds!**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 20 seconds**
 
 </p>
 
