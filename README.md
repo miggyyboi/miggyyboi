@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Migs 👋</h1>
 
-- 🌱 Currently learning: **TypeScript**
-
 - 📫 Reach me: **fhonk_ on Discord**
 
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 20 seconds**
